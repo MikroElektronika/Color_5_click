@@ -1,0 +1,4 @@
+<WCH v="2">
+<item n="color5_setLedDriver_ctrl_reg_1_L0" r="1" s="False" e="True" i="0"/>
+<item n="color5_setLedDriver_ctrl_reg_2_L0" r="0" s="False" e="True" i="1"/>
+</WCH>
